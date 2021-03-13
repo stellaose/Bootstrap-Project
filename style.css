@@ -1,25 +1,17 @@
 body {
-    background: url(images/coffee-red.jpg) no-repeat center center fixed;
+    background: url(images/coffee.png) no-repeat center center fixed;
     background-size: cover;
-    font-family: 'Abril Fatface', cursive;
 }
-.rowHeight {
-    height: 500px;
+.hero {
+    color: #fff;
+    margin-top: 20%;
+    text-align: center;
+    font-size: 75px;
+    letter-spacing: -.05em;
+    line-height: 1.2em;
+    font-family: 'Revalia', cursive;
 }
-h1 {
-    color: black;
-    font-size: 2.5em;
-}
-.bg {
-    background-color: #c1c1c1;
-    opacity: 0.8;
-}
-.footer {
-    background-color: #fff;
-    position: fixed;
-    bottom: auto;
-}
-p {
-    font-size: 15px;
-    padding: 10px;
+.ima {
+    height: 100px;
+    width: 200px;
 }
